@@ -1,0 +1,14 @@
+D:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\GildedRose.exe.config
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\obj\Debug\GildedRose.csprojResolveAssemblyReference.cache
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\GildedRose.exe
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\GildedRose.pdb
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\ApprovalTests.dll
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\ApprovalUtilities.dll
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\ApprovalUtilities.Net45.dll
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\nunit.framework.dll
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\ApprovalTests.xml
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\ApprovalUtilities.xml
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\ApprovalUtilities.Net45.xml
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\bin\Debug\nunit.framework.xml
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\obj\Debug\GildedRose.exe
+d:\Projects\TestGitGildedRose\GildedRose\GildedRose\obj\Debug\GildedRose.pdb
